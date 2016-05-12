@@ -1,0 +1,25 @@
+
+body {
+  background-color: #e8e8fa;
+}
+
+h1 {
+  font-family: righteous, monospace
+}
+
+h3 {
+  font-family: righteous, monospace;
+}
+
+p {
+  font-family: monospace;
+  font-size: 8px;
+}
+
+h4 {
+font-family: open sans, monospace;
+font-size: 25px}
+
+h5 { font-family: righteous, monospace;
+  font-size: 18px;
+}
